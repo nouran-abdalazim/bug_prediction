@@ -1,0 +1,193 @@
+XIncludeHandler,{'kmeans_recall': 0.9565, 'kmeans_precision': 0.6958, 'agglomerative_recall': 0.9565, 'agglomerative_precision': 0.6958}
+XSDHandler,{'kmeans_recall': 0.9611, 'kmeans_precision': 0.3645, 'agglomerative_recall': 0.9247, 'agglomerative_precision': 0.3786}
+DTDGrammar,{'kmeans_recall': 0.0549, 'kmeans_precision': 0.8623, 'agglomerative_recall': 0.9428, 'agglomerative_precision': 0.5221}
+CoreDocumentImpl,{'kmeans_recall': 0.2962, 'kmeans_precision': 0.6755, 'agglomerative_recall': 0.2958, 'agglomerative_precision': 0.6752}
+god class: XIncludeHandler
+kmeans result:
+no. clusters = 2
+clusters statistics :
+     label = 0count = 106
+     label = 1count = 2
+agglomerative result:
+no. clusters = 2
+clusters statistics :
+     label = 0count = 2
+     label = 1count = 106
+god class: XSDHandler
+kmeans result:
+no. clusters = 3
+clusters statistics :
+     label = 0count = 104
+     label = 1count = 1
+     label = 2count = 1
+agglomerative result:
+no. clusters = 3
+clusters statistics :
+     label = 0count = 5
+     label = 1count = 100
+     label = 2count = 1
+god class: DTDGrammar
+kmeans result:
+no. clusters = 60
+clusters statistics :
+     label = 0count = 1
+     label = 1count = 1
+     label = 2count = 16
+     label = 3count = 1
+     label = 4count = 2
+     label = 5count = 1
+     label = 6count = 1
+     label = 7count = 3
+     label = 8count = 1
+     label = 9count = 1
+     label = 10count = 1
+     label = 11count = 3
+     label = 12count = 1
+     label = 13count = 2
+     label = 14count = 2
+     label = 15count = 2
+     label = 16count = 1
+     label = 17count = 2
+     label = 18count = 1
+     label = 19count = 1
+     label = 20count = 1
+     label = 21count = 2
+     label = 22count = 1
+     label = 23count = 1
+     label = 24count = 1
+     label = 25count = 1
+     label = 26count = 1
+     label = 27count = 1
+     label = 28count = 2
+     label = 29count = 1
+     label = 30count = 1
+     label = 31count = 1
+     label = 32count = 1
+     label = 33count = 1
+     label = 34count = 1
+     label = 35count = 2
+     label = 36count = 1
+     label = 37count = 1
+     label = 38count = 1
+     label = 39count = 1
+     label = 40count = 1
+     label = 41count = 1
+     label = 42count = 1
+     label = 43count = 1
+     label = 44count = 2
+     label = 45count = 2
+     label = 46count = 2
+     label = 47count = 1
+     label = 48count = 2
+     label = 49count = 1
+     label = 50count = 1
+     label = 51count = 1
+     label = 52count = 1
+     label = 53count = 1
+     label = 54count = 1
+     label = 55count = 1
+     label = 56count = 1
+     label = 57count = 1
+     label = 58count = 1
+     label = 59count = 1
+agglomerative result:
+no. clusters = 2
+clusters statistics :
+     label = 0count = 89
+     label = 1count = 2
+god class: CoreDocumentImpl
+kmeans result:
+no. clusters = 44
+clusters statistics :
+     label = 0count = 7
+     label = 1count = 46
+     label = 2count = 2
+     label = 3count = 1
+     label = 4count = 1
+     label = 5count = 1
+     label = 6count = 6
+     label = 7count = 1
+     label = 8count = 1
+     label = 9count = 1
+     label = 10count = 2
+     label = 11count = 1
+     label = 12count = 1
+     label = 13count = 2
+     label = 14count = 3
+     label = 15count = 3
+     label = 16count = 1
+     label = 17count = 4
+     label = 18count = 2
+     label = 19count = 1
+     label = 20count = 2
+     label = 21count = 3
+     label = 22count = 2
+     label = 23count = 2
+     label = 24count = 2
+     label = 25count = 1
+     label = 26count = 1
+     label = 27count = 1
+     label = 28count = 1
+     label = 29count = 1
+     label = 30count = 1
+     label = 31count = 1
+     label = 32count = 1
+     label = 33count = 1
+     label = 34count = 1
+     label = 35count = 1
+     label = 36count = 1
+     label = 37count = 1
+     label = 38count = 1
+     label = 39count = 1
+     label = 40count = 1
+     label = 41count = 1
+     label = 42count = 1
+     label = 43count = 1
+agglomerative result:
+no. clusters = 45
+clusters statistics :
+     label = 0count = 2
+     label = 1count = 2
+     label = 2count = 2
+     label = 3count = 3
+     label = 4count = 7
+     label = 5count = 2
+     label = 6count = 3
+     label = 7count = 2
+     label = 8count = 2
+     label = 9count = 4
+     label = 10count = 3
+     label = 11count = 1
+     label = 12count = 1
+     label = 13count = 1
+     label = 14count = 1
+     label = 15count = 6
+     label = 16count = 1
+     label = 17count = 46
+     label = 18count = 2
+     label = 19count = 1
+     label = 20count = 1
+     label = 21count = 1
+     label = 22count = 1
+     label = 23count = 1
+     label = 24count = 1
+     label = 25count = 1
+     label = 26count = 1
+     label = 27count = 1
+     label = 28count = 1
+     label = 29count = 1
+     label = 30count = 1
+     label = 31count = 1
+     label = 32count = 1
+     label = 33count = 1
+     label = 34count = 1
+     label = 35count = 1
+     label = 36count = 1
+     label = 37count = 1
+     label = 38count = 1
+     label = 39count = 1
+     label = 40count = 1
+     label = 41count = 1
+     label = 42count = 1
+     label = 43count = 1
+     label = 44count = 1
